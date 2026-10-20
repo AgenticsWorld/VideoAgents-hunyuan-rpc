@@ -47,7 +47,7 @@ HunyuanWorld(本地算力)」渠道的远程执行端;VideoAgents 主仓只含 H
 ### 1. 拿代码
 
 ```bat
-git clone https://github.com/AgenticsWorld/hunyuan-rpc.git D:\hunyuan-rpc
+git clone https://github.com/AgenticsWorld/VideoAgents-hunyuan-rpc.git D:\hunyuan-rpc
 ```
 
 ### 2. 建环境(Anaconda Prompt)
