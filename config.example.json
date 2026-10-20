@@ -1,0 +1,22 @@
+{
+  "hyworld_repo": "D:/models/HunyuanWorld-1.0",
+  "python": "D:/miniconda3/envs/hyworld1/python.exe",
+  "work_root": "D:/hyworld_jobs",
+  "port": 8310,
+  "token": "change-me-to-a-long-random-string",
+  "job_ttl_days": 7,
+  "hf_home": "D:/hf_cache",
+  "hf_endpoint": "",
+  "hf_token": "",
+  "defaults": {
+    "fp8": false,
+    "fp8_attention": false,
+    "classes": "outdoor",
+    "views": 32,
+    "render_width": 1600,
+    "render_height": 900,
+    "gs_steps": 8000,
+    "max_gaussians": 1000000,
+    "radius_m": 0.35
+  }
+}

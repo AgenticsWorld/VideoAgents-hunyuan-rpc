@@ -1,0 +1,6 @@
+# worker 服务自身的依赖(装进 hyworld conda env 即可;阶段脚本的 torch/open3d/gsplat/trimesh 由该 env 提供)
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+numpy>=1.26
+pillow>=10.0
